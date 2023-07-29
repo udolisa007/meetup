@@ -238,8 +238,9 @@ footer p {
     
 
     header h3{
+         width: 50%;
         position: absolute;
-        right: 290px;
+        right: 270px;
     }
    
     .banner{
